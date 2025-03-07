@@ -161,6 +161,7 @@ public class Alumnos {
                                     default:
                                         // Opción por defecto, indica que se debe ingresar un número del 1 al 5
                                         System.out.println("Por favor, ingrese un número del 1 al 5");
+                                        System.out.println("Selecciona una opción: ");
                                         break;
                                 }
                             } catch (Exception e) {
